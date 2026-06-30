@@ -12,7 +12,7 @@ Tecnologie usate:
 	•	Python 3
 	•	pandas – per l’elaborazione dei dati
 	•	openpyxl – per la lettura e scrittura dei file Excel
-Come funziona
+Come funziona?
 	1.	Lo script legge un file Excel con colonne: Codice DDT, Fornitore, Descrizione Materiale, Quantità, Data Ricevimento
 	2.	Controlla automaticamente duplicati e dati mancanti
 	3.	Calcola un riepilogo del numero di articoli per fornitore
